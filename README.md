@@ -79,7 +79,7 @@ Linux s **5.1.16**-1-default #1 SMP Wed Jul 3 12:37:47 UTC 2019 (2af8a22) x86_64
 Get source code:
 
 ```Bash
-$ git clone https://github.com/Clark-Devis/Sockbench.git
+$ git clone git@github.com:Clark-Devis/Sockbench.git
 ```
 
 For testing, you need to specify your address, example:
